@@ -1,8 +1,10 @@
+/* -- CSS -- */
+
 * {
     box-sizing: border-box;
     text-align: center;
   }
-  
+
   body { 
     display: grid;
     margin: 5px;
@@ -62,7 +64,7 @@
   aside {
     background-color: blue;
     color: black;
-    width: 350px;
+    width: 435px;
     height: 100%;
     margin-left: 25px;
     z-index: 5;
