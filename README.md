@@ -1,4 +1,4 @@
-<a href='https://jwalla7.github.io/griD/'><h1>griD</h1></a>
+<a href='https://jwalla7.github.io/griD/' target='_blank'><h1>griD</h1></a>
 _Generation USA daily challenge
 
 Input CSS declarations to imitate the following image:
