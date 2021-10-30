@@ -3,7 +3,7 @@ _Generation USA daily challenge
 
 Input CSS declarations to imitate the following image:
 
-<img src="https://files.slack.com/files-pri/T01HL7SPH3J-F02KLPZSHAP/expected-end-product.png" width='250px' height='250px' alt='picture of colored blocks with descriptive names'/>
+![expected-end-product](https://user-images.githubusercontent.com/89559981/139560019-1c699f94-f38f-4020-922e-286467eda596.png)
 
 <section>
   CSS (
