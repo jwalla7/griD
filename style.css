@@ -52,9 +52,9 @@
   
   #division {
     background-color: pink;
+    padding: 20px;
     text-align: right;
     margin-top: 60px;
-    padding: 20px;
     z-index: 1;
     grid-area: b1 / b1 / b1 / b12;
   }
