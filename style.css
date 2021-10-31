@@ -7,18 +7,18 @@
     zoom: 112%;
   }
 
-  body { 
+  body {
     display: grid;
-    margin: 5px;
+    margin: 7px;
     height: 100vh;
-    grid-template-rows: .09fr .41fr .09fr .09fr;
+    grid-template-rows: .04fr .5fr .04fr .04fr;
     grid-template-columns: repeat(12, .09fr);
     grid-template-areas: 
       'a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12'
       'b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12'
       'c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11 c12'
       'd1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12';
-    row-gap: 15px;
+    row-gap: 20px;
   }
   
   header {
@@ -60,6 +60,7 @@
     padding: 20px;
     justify-self: center;
     margin-top: 10px;
+    z-index: 1;
     grid-area: b1 / b1 / b1 / b12;
   }
   
