@@ -60,7 +60,6 @@
     padding: 20px;
     justify-self: center;
     margin-top: 10px;
-    z-index: 1;
     grid-area: b1 / b1 / b1 / b12;
   }
   
