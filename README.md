@@ -1,5 +1,5 @@
 <a href='https://jwalla7.github.io/griD/' target='_blank'><h1>griD</h1></a>
-_Generation USA daily challenge
+_Generation USA Morning Activity
 
 Input CSS declarations to imitate the following image:
 
